@@ -4,3 +4,6 @@ host-suffix,gnews.org,Proxy
 host-suffix,gettr.com,Proxy
 host-suffix,gpost.org,Proxy
 host-suffix,kwok7.com,Proxy
+
+# GoogleVoice
+IP-CIDR,74.125.23.127/32,PROXY
